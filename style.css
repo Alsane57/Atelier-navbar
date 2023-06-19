@@ -1,0 +1,52 @@
+header{
+    background-color: blue;
+    padding-bottom: 450px;
+    color: white;
+    padding-top: 20px;
+}
+header p{
+    color: black;
+} 
+.sect1{
+    background-color: orangered;
+    padding-top: 20px;
+    padding-bottom: 300px;
+}
+.sect2{
+    background-color: green;
+    padding-top: 20px;
+    padding-bottom: 300px;
+    color: white;
+}
+.sect3{
+    background-color: darkslategrey;
+    padding-top: 20px;
+    padding-bottom: 300px;
+}
+.sect3 h3{
+    color: gray;
+}
+footer{
+    background-color: yellow;
+    padding-top: 20px;
+    padding-bottom: 300px;
+}
+body{
+    justify-content: center;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color: gray;
+    text-decoration: none;
+    padding: 20px;
+}
+div{
+    background-color: white;
+    padding: 70px;
+    margin: 70px;
+}
+h3 , h1, p{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
